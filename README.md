@@ -1,8 +1,9 @@
 # Crop and Fertilizer Recommendation System using Machine Learning WEEK-1 MILESTONE
  
 
-# Crop and Fertilizer Recommendation System using Machine Learning  
+# Crop and Fertilizer Recommendation System   
 Hi there, I'm Janagam Sai teja 👋  
+
 ![CROP  FERT 1](https://github.com/user-attachments/assets/e84f2732-7206-4b3b-b453-c4694ae2e89e)
 
 ---
@@ -51,6 +52,7 @@ The system consists of two components:
    - Algorithm: Random Forest Classifier  
    - Input Features: NPK values, pH, temperature, humidity, rainfall.  
    - Output: Recommended crop.
+     
      ![CROP   FERT](https://github.com/user-attachments/assets/d182b0ad-1d48-42b5-932c-6cdd01673993)
      
 2. **Fertilizer Recommendation Model**  
