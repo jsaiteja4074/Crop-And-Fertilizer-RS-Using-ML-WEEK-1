@@ -72,7 +72,6 @@ Both models use a pipeline for preprocessing and hyperparameter tuning to optimi
   - Evaluation Metric: Precision and Recall  
 
 ---
----
 
 ## Technologies Used  
 - Python  
