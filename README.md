@@ -2,7 +2,8 @@
  
 
 # Crop and Fertilizer Recommendation System   
-Hi there, I'm Janagam Sai teja 👋  
+# Hi there, I'm Janagam Sai teja 👋  
+---
 
 ![CROP  FERT 1](https://github.com/user-attachments/assets/e84f2732-7206-4b3b-b453-c4694ae2e89e)
 
