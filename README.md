@@ -17,7 +17,7 @@ This project focuses on building a machine learning-based recommendation system 
 ## Table of Contents  
 1. **Project Description**  
 2. **Dataset**  
-3. **Model Architecture**  
+3. **Model Architecture**   
 4. **Training**   
 5. **Technologies Used**  
 6. **Future Scope**  
