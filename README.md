@@ -1,4 +1,4 @@
-# Crop and Fertilizer Recommendation System using Machine Learning WEEK-1 MILESTONE
+# Crop and Fertilizer Recommendation System using Machine Learning  MILESTONE
  
 
 # Crop and Fertilizer Recommendation System   
